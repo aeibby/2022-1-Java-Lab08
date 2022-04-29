@@ -90,8 +90,6 @@ public class MathDriver{
 
             /**
              * Runs the quotient function and returns the result
-             * This returns quotient
-             * 
              */
             case "Quotient":
                 System.out.println("Driver Name: " + mathCalculator.getName() +
