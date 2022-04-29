@@ -25,6 +25,7 @@ public class MathCalculator {
 
     /**
      * This method is used to return the name inputted.
+     * bLABLALA
      */
     public String getName(){
         return name;   
